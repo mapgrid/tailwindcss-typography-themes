@@ -10,7 +10,7 @@
         "eslint-config-prettier": "^6.9.0",
         "eslint-plugin-import": "^2.18.2",
         "lerna": "^3.20.2",
-        "prettier": "^1.19.1",
+        "prettier": "^2.1.1",
         "rollup": "^1.29.0",
         "rollup-plugin-terser": "^5.2.0"
     },
